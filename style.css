@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+
+body {
+ color: #000000;
+ background-color: #ffffff;
+ transition: background-color 2s, color 2s;
+} 
+
+#content {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#code {
+  font-size: 100px;
+  font-weight: bolder;
+  word-wrap: normal;
+}
+
+#demo {
+  font-size: 30px;
+}
