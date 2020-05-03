@@ -19,6 +19,11 @@ body {
   font-family: Arial, sans-serif;
 }
 
+#small-text {
+  padding: 15px 0 0 0;
+  font-size: 30px;
+}
+
 #code {
   font-size: 100px;
   font-weight: bolder;
